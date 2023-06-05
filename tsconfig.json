@@ -4,6 +4,6 @@
     ],
     "compilerOptions": {
         "outDir": "build",
-        "target": "ES3"
+        "target": "ES6",
     }
 }
